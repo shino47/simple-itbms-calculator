@@ -1,0 +1,55 @@
+load_more: Cargar más
+close: Cerrar
+cancel: Cancelar
+clear: Limpiar
+date: Fecha
+btn_exempt: Exento
+btn_add_itbms: Agregar 7%
+btn_itbms_included: 7% Incluído
+items_list_empty: No hay artículos en la lista.
+amount: Monto
+tax: ITBMS
+exempt: Exento
+exempt_initial: E
+taxed: Gravado
+taxed_initial: G
+subtotal: Subtotal
+total: Total
+total_paid: Total pagado
+paid: Pagado
+pay: Pagar
+change: Cambio
+total_to_pay: Total a pagar
+payment_methods:
+  cash: Efectivo
+  credit_card: T. Crédito
+  debit_card: T. Débito
+  yappy: Yappy
+new_sale: Nueva venta
+sale_remove:
+  label: Anular
+  title: Anular venta
+  confirmation: ¿Desea anular la venta? Se eliminarán todos los artículos y pagos relacionados.
+  done: La venta ha sido anulada.
+sale_suspend:
+  label: Suspender
+  title: Suspender venta
+  confirmation: ¿Desea suspender la venta? Puedes continuarla más tarde.
+  done: La venta ha sido suspendida.
+sale_list:
+  label: Ventas
+  title: Listado de ventas
+  empty: No se ha encontrado registros
+  filters:
+    all: Todas
+    suspended: Suspendidas
+    finished: Finalizadas
+sale_status:
+  current: En proceso
+  suspended: Suspendida
+  finished: Finalizada
+sale_item:
+  articles: Artículos
+  totals: Totales
+  payments: Pagos
+  resume: Reanudar
